@@ -2,6 +2,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> [OpenVAS Vulnerability Management Cyber Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
+- <b> [Failed RDP to IP Geolocation Information Home Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
+- <b> [Hardening Kali Linux](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
 
 <h2>Certifications :</h2>
 
