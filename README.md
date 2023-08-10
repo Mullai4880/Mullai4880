@@ -1,11 +1,11 @@
 <h1>Hi, I'm Mullaikani Nagaraja! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>OpenVAS Vulnerability Management Cyber Lab (https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
+- <b> [OpenVAS Vulnerability Management Cyber Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
 
 <h2>Certifications :</h2>
 
-- <b>IBM Cybersecurity Analyst Professional Certificate (https://coursera.org/share/c836944a3fd97e142bdefdaffba3f226)</b>
+- <b>[IBM Cybersecurity Analyst Professional Certificate](https://coursera.org/share/c836944a3fd97e142bdefdaffba3f226)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
