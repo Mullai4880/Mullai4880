@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mullaikani Nagaraja! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> [OpenVAS Vulnerability Management Cyber Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
+- <b> [OpenVAS Vulnerability Management Cyber Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab)</b>
 - <b> [Failed RDP to IP Geolocation Information Home Lab](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
 - <b> [Hardening Kali Linux](https://github.com/Mullai4880/OpenVASVulnerabilityLab/tree/main)</b>
 
